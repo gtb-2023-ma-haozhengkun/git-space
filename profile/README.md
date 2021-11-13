@@ -8,7 +8,7 @@ You see this avatar, you know it is me.
 
 This is me in 2021:
 
-![me-now-2021](../assets/me-now-2021.jpg)
+<img src="../assets/me-now-2021.jpg" alt="me-now-2021" style="zoom:30%;" />
 
 This is me just joined Thoughtworks in 2011:
 
@@ -16,8 +16,8 @@ This is me just joined Thoughtworks in 2011:
 
 然后这是 **颜**（被）**值**（P）**巅**（图）**峰**（后）的我:
 
-![me-in-macao](../assets/me-in-macao.jpg)
+<img src="../assets/me-in-macao.jpg" alt="me-in-macao" style="zoom:20%;" />
 
 最后，我和我的 baby：
 
-![me-and-my-baby](../assets/me-and-my-baby.jpg)
+<img src="../assets/me-and-my-baby.jpg" alt="me-and-my-baby" style="zoom:50%;" />
