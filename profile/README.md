@@ -14,7 +14,7 @@ This is me just joined Thoughtworks in 2011:
 
 ![me-join-tw-2011](assets/me-join-tw-2011.jpg)
 
-然后这是 **颜**（被）**值**（P）**巅**（图）**峰**（后）的我:
+然后这是 **颜**（美）**值**（颜）**巅**（开）**峰**（满）的我:
 
 <img src="assets/me-in-macao.jpg" alt="me-in-macao" width="20%" />
 
