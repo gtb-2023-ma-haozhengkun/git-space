@@ -17,7 +17,7 @@
   
   - 传统的请求导致用户的体验有空白期。（用户的体验是不连贯的）
   
-    ![](E:\JAVA学习\Ajax\笔记\AJAX同步请求.png)
+    ![](https://github.com/gtb-2023-ma-haozhengkun/git-space/blob/master/profile/assets/AJAX同步请求.png)
 
 ## AJAX概述
 
@@ -38,9 +38,9 @@
 
 - AJAX可以做到在同一个网页中同时启动多个请求，类似于在同一个网页中启动“多线程”，一个“线程”一个“请求”。
 
-  ![](E:\JAVA学习\Ajax\笔记\AJAX异步请求.png)
+  ![](https://github.com/gtb-2023-ma-haozhengkun/git-space/blob/master/profile/assets/AJAX异步请求.png)
 
-  ![](E:\JAVA学习\Ajax\笔记\对AJAX异步请求的理解.png)
+  ![](https://github.com/gtb-2023-ma-haozhengkun/git-space/blob/master/profile/assets/对AJAX异步请求的理解.png)
 
 ## XMLHttpRequest对象
 
